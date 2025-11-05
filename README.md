@@ -11,13 +11,13 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/shortsays/" target="_blank">
-    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Days Streak" height="200" width="200" />
+    <img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif"" alt="50 Days Streak" height="200" width="200" />
   </a>
   <a href="https://leetcode.com/u/shortsays/" target="_blank">
-    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="100 Days Streak" height="200" width="200" />
+    <img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="100 Days Streak" height="200" width="200" />
   </a>
   <a href="https://leetcode.com/u/shortsays/" target="_blank">
-    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="200 Days Streak" height="200" width="200" />
+    <img align="center" src="https://assets.leetcode.com/static_assets/others/200.gif" alt="200 Days Streak" height="200" width="200" />
   </a>
   
 </p>
