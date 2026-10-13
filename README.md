@@ -20,6 +20,14 @@
     <img align="center" src="https://assets.leetcode.com/static_assets/others/200.gif" alt="200 Days Streak" height="200" width="200" />
   </a>
   <a href="https://leetcode.com/u/shortsays/" target="_blank">
+    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="200 Days Streak" height="200" width="200" />
+  </a>
+  <br>
+  <br>
+  <a href="https://leetcode.com/u/shortsays/" target="_blank">
+    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" alt="300+ Days Streak" height="200" width="200" />
+  </a>
+  <a href="https://leetcode.com/u/shortsays/" target="_blank">
     <img align="center" src="https://assets.leetcode.com/static_assets/others/2025.gif" alt="300+ Days Streak" height="200" width="200" />
   </a>
 </p>
